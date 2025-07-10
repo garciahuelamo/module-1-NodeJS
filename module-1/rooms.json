@@ -1,0 +1,12 @@
+[
+  {
+    "id": "room1",
+    "name": "Sala 1",
+    "capacity": 4
+  },
+  {
+    "id": "room2",
+    "name": "Sala 2",
+    "capacity": 6
+  }
+]
